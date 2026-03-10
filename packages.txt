@@ -1,3 +1,4 @@
-tcl
-tk
+tcl8.6
+tk8.6
+libtcl8.6
 libgl1
