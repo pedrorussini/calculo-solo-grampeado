@@ -6,3 +6,4 @@ libblas3
 liblapack3
 libx11-6
 libgl1
+pandoc
