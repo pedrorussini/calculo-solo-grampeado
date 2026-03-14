@@ -20,7 +20,7 @@ st.set_page_config(
     page_icon="🏗️",
     layout="wide"
 )
-st.title("🏗️ Memorial de Cálculo: Contenção em Solo Grampeado")
+st.title("🏗️ Memorial de Cálculo: Contenção em Solo Grampeado v1.1")
 st.markdown("---")
 
 # ==========================================
