@@ -1,4 +1,4 @@
-streamlit
-pandas
-openseespy
-pypandoc
+streamlit>=1.32
+pandas>=2.0
+openseespy>=3.5
+pypandoc>=1.13
